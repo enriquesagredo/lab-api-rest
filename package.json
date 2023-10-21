@@ -1,7 +1,7 @@
 {
   "name": "lab-api-rest",
   "version": "1.0.0",
-  "description": "",
+  "description": "En este laboratorio vamos a construir una biblioteca, teniendo en cuenta que almacenaremos información tanto de autores como libros.",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
